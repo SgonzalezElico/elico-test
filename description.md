@@ -6,7 +6,8 @@
 
 ## Horarios
 
-
 ## Estudiantes
 
 ## Edificios
+
+## Salones
